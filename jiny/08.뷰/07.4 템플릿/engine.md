@@ -1,8 +1,3 @@
----
-layout: default
-tree: /jiny
----
-
 ## 템플릿 엔진
 ---
 

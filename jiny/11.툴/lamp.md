@@ -1,16 +1,6 @@
----
-layout: default
-title: 지니프레임웍
-subtitle: Basic
-
-tree: /basic
----
-
-
-## 램프(Lamp) CLI
----
-
-램프(Lamp)는 지니 웹프레임워크의 CLI 툴 이름 입니다. CLI는 command line interface 의 약자로, 터미널과 같은 콘솔 모드에서 작업을 할 수 있는 소프트웨어를 말합니다.
+## 램프(Lamp)
+램프(Lamp)는 지니 웹프레임워크의 CLI 툴 이름 입니다. 
+CLI는 command line interface 의 약자로, 터미널과 같은 콘솔 모드에서 작업을 할 수 있는 소프트웨어를 말합니다.
 
 CLI를 이용하면 복잡한 ui 대신에 간결한 명령으로 다양한 작업들을 자동화 처리 할 수 있습니다.
 

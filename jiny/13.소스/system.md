@@ -14,4 +14,3 @@ if ( DIRECTORY_SEPERAROT == '/') {
     $server = "windows";
 }
 ```
-

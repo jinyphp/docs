@@ -1,3 +1,9 @@
+---
+layout: setup
+theme: jiny/page
+---
+
+
 # 지니 인스톨러
 ---
 인스톨러를 통하여 jinyphp를 로컬 컴퓨터에 설치를 할 수 있습니다. 
@@ -41,3 +47,7 @@ jiny new 프로젝트명
 ~/AppData/Roaming/Composer/vendor/jiny/installer
 ```
 에 설치가 됩니다.
+
+<br>
+<br>
+<br>

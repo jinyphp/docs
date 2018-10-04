@@ -24,8 +24,7 @@ if ($Request = Registry::create(\Jiny\Core\Http\Request::class, "Request", $this
 
 request 객체가 정상적으로 생성되었으면, `REWRITE` 처리된 URL을 분석하는 Bootstraping 과정으로 들어가게 됩니다.
 
-REWRITE는 모든 URL을 판단하여 `.htaccess`에 정의된 방법으로 재설정을 하게 됩니다. 실제 파일이 없거나, 존재하지 않는 디렉토리의 경우 
-`index.php`로 재설정하게 됩니다. 이렇게 재설정 입력된 URL을 부트스트래핑을 통하여 분석처리 하게 됩니다.
+REWRITE는 모든 URL을 판단하여 `.htaccess`에 정의된 방법으로 재설정을 하게 됩니다. 실제 파일이 없거나, 존재하지 않는 디렉토리의 경우  `index.php`로 재설정하게 됩니다. 이렇게 재설정 입력된 URL을 부트스트래핑을 통하여 분석처리 하게 됩니다.
 
 
 ## HTTP Response

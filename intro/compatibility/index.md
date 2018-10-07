@@ -31,5 +31,3 @@ theme: jiny/page
 
 <br>
 <br>
-<br>
-<br>

@@ -65,5 +65,3 @@ theme: jiny/page
 </div>
 <br>
 <br>
-<br>
-<br>

@@ -95,10 +95,30 @@
         "en": "docs",
         "menu": [
             {
-                "name": "구조",
-                "ko": "구조",
-                "en": "structure",
-                "href": "/structure"
+                "name": "시스템",
+                "ko": "시스템",
+                "en": "System",
+                "href": "/structure",
+                "menu": [
+                    {
+                        "name": "구조",
+                        "href": "/structure",
+                        "ko": "구조",
+                        "en": "structure"
+                    },
+                    {
+                        "name": "파일",
+                        "href": "/structure/file",
+                        "ko": "파일",
+                        "en": "File"
+                    },
+                    {
+                        "name": "폴더",
+                        "href": "/structure/folder",
+                        "ko": "폴더",
+                        "en": "folder"
+                    }
+                ]
             },
             {
                 "name": "설정",

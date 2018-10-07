@@ -90,7 +90,7 @@
     },
     {
         "name": "문서",
-        "href": "/structure",
+        "href": "/docs",
         "ko": "문서",
         "en": "docs",
         "menu": [
@@ -539,14 +539,7 @@
                         "en": "misc"
                     }
                 ]
-            },
-            {
-                "name": "소스",
-                "ko": "소스",
-                "en": "Source",
-                "href": "/source"
             }
-
 
         ]
     },
@@ -561,6 +554,12 @@
         "href": "/source",
         "ko": "소스",
         "en": "Source"
+    },
+    {
+        "name": "기술지원",
+        "href": "/support",
+        "ko": "기술지원",
+        "en": "support"
     },
     {
         "name": "커뮤니티",

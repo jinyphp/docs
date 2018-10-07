@@ -56,18 +56,29 @@
                 "ko": "컴포저",
                 "en": "composer"
             },
-            
             {
                 "name": "인스톨러",
-                "href": "/setup/jiny/installer",
+                "href": "/setup/installer",
                 "ko": "인스톨러",
                 "en": "Installer"
             },
             {
-                "name": "시작방법",
-                "href": "/setup/jiny/starting",
-                "ko": "시작방법",
+                "name": "프로젝트",
+                "href": "/setup/project",
+                "ko": "프로젝트",
+                "en": "project"
+            },
+            {
+                "name": "서버실행",
+                "href": "/setup/starting",
+                "ko": "서버실행",
                 "en": "starting"
+            },
+            {
+                "name": "직접설치",
+                "href": "/setup/direct",
+                "ko": "직접설치",
+                "en": "Direct"
             },
             {
                 "name": "버전",

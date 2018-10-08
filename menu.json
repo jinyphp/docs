@@ -4,30 +4,35 @@
         "href": "/intro",
         "ko": "지니소개",
         "en": "Jiny",
+        "ja": "Jiny",
         "menu": [
             {
                 "name": "지니",
                 "href": "/intro",
                 "ko": "지니",
-                "en": "jiny"
+                "en": "jiny",
+                "ja": "jiny"
             },
             {
                 "name": "프레임워크",
                 "href": "/intro/framwork",
                 "ko": "프레임워크",
-                "en": "framwork"
+                "en": "framwork",
+                "ja": "フレームワーク"
             },
             {
                 "name": "호환성",
                 "href": "/intro/compatibility",
                 "ko": "호환성",
-                "en": "compatibility"
+                "en": "compatibility",
+                "ja": "互換性"
             },
             {
                 "name": "기여",
                 "href": "/intro/contribution",
                 "ko": "기여",
-                "en": "contribution"
+                "en": "contribution",
+                "ja": "貢献"
             }
             
         ]
@@ -37,54 +42,63 @@
         "href": "/setup",
         "ko": "설치",
         "en": "Setup",
+        "ja": "インストール",
         "menu": [
             {
                 "name": "요구사항",
                 "href": "/setup/jiny/require",
                 "ko": "요구사항",
-                "en": "Require"
+                "en": "Require",
+                "ja": "要件"
             },
             {
                 "name": "php 설치",
                 "href": "/setup/php",
                 "ko": "php 설치",
-                "en": "php Setup"
+                "en": "php Setup",
+                "ja": "php インストール"
             },
             {
                 "name": "컴포저",
                 "href": "/setup/composer",
                 "ko": "컴포저",
-                "en": "composer"
+                "en": "composer",
+                "ja": "composer"
             },
             {
                 "name": "인스톨러",
                 "href": "/setup/installer",
                 "ko": "인스톨러",
-                "en": "Installer"
+                "en": "Installer",
+                "ja": "インストーラ"
             },
             {
                 "name": "프로젝트",
                 "href": "/setup/project",
                 "ko": "프로젝트",
-                "en": "project"
+                "en": "project",
+                "ja": "プロジェクト"
             },
             {
                 "name": "서버실행",
                 "href": "/setup/starting",
                 "ko": "서버실행",
-                "en": "starting"
+                "en": "starting",
+                "ja": "サーバーの実行"
             },
             {
                 "name": "직접설치",
                 "href": "/setup/direct",
                 "ko": "직접설치",
-                "en": "Direct"
+                "en": "Direct",
+                "ja": "直接インストール"
             },
             {
                 "name": "버전",
                 "href": "/setup/version",
                 "ko": "버전",
-                "en": "version"
+                "en": "version",
+                "ja": "バージョン"
             }
         ]
     },
@@ -93,30 +107,35 @@
         "href": "/docs",
         "ko": "문서",
         "en": "docs",
+        "ja": "文書",
         "menu": [
             {
                 "name": "시스템",
                 "ko": "시스템",
                 "en": "System",
+                "ja": "システム",
                 "href": "/structure",
                 "menu": [
                     {
                         "name": "구조",
                         "href": "/structure",
                         "ko": "구조",
-                        "en": "structure"
+                        "en": "structure",
+                        "ja": "構造"
                     },
                     {
                         "name": "파일",
                         "href": "/structure/file",
                         "ko": "파일",
-                        "en": "File"
+                        "en": "File",
+                        "ja": "ファイル"
                     },
                     {
                         "name": "폴더",
                         "href": "/structure/folder",
                         "ko": "폴더",
-                        "en": "folder"
+                        "en": "folder",
+                        "ja": "フォルダ"
                     }
                 ]
             },
@@ -124,31 +143,36 @@
                 "name": "설정",
                 "ko": "설정",
                 "en": "Config",
+                "ja": "設定",
                 "href": "/config",
                 "menu": [
                     {
                         "name": "환경설정",
                         "href": "/config/env",
                         "ko": "환경설정",
-                        "en": "ENV"
+                        "en": "ENV",
+                        "ja": "環境設定"
                     },
                     {
                         "name": "사이트",
                         "href": "/config/site",
                         "ko": "사이트",
                         "en": "Site",
+                        "ja": "サイト",
                         "menu": [
                             {
                                 "name": "config.php",
                                 "href": "/config/site/conf",
                                 "ko": "config.php",
-                                "en": "config.php"
+                                "en": "config.php",
+                                "ja": "config.php"
                             },
                             {
                                 "name": "헬퍼",
                                 "href": "/config/site/helpers",
                                 "ko": "헬퍼",
-                                "en": "Helper"
+                                "en": "Helper",
+                                "ja": "Helper"
                             }
                         ]
                     },
@@ -156,31 +180,36 @@
                         "name": "로딩",
                         "href": "/config/loading",
                         "ko": "로딩",
-                        "en": "Loading"
+                        "en": "Loading",
+                        "ja": "Loading"
                     },
                     {
                         "name": "원리",
                         "href": "/config/principle",
                         "ko": "원리",
-                        "en": "principle"
+                        "en": "principle",
+                        "ja": "原理"
                     },
                     {
                         "name": "INI",
                         "href": "/config/ini",
                         "ko": "INI",
-                        "en": "ini"
+                        "en": "ini",
+                        "ja": "ini"
                     },
                     {
                         "name": "JSON",
                         "href": "/config/json",
                         "ko": "JSON",
-                        "en": "json"
+                        "en": "json",
+                        "ja": "json"
                     },
                     {
                         "name": "YMAL",
                         "href": "/config/yaml",
                         "ko": "YMAL",
-                        "en": "yaml"
+                        "en": "yaml",
+                        "ja": "yaml"
                     }
                 ]
             },
@@ -188,67 +217,78 @@
                 "name": "기본원리",
                 "ko": "기본원리",
                 "en": "Basic",
+                "ja": "基本原理",
                 "href": "/basic",
                 "menu": [
                     {
                         "name": "기본",
                         "href": "/basic/intro",
                         "ko": "기본",
-                        "en": "intro"
+                        "en": "intro",
+                        "ja": "基本"
                     },
                     {
                         "name": "패턴",
                         "href": "/basic/pattern",
                         "ko": "패턴",
-                        "en": "pattern"
+                        "en": "pattern",
+                        "ja": "パターン"
                     },
                     {
                         "name": "코드",
                         "href": "/basic/code",
                         "ko": "코드",
-                        "en": "code"
+                        "en": "code",
+                        "ja": "コード"
                     },
                     {
                         "name": "코어",
                         "href": "/basic/core",
                         "ko": "코어",
-                        "en": "core"
+                        "en": "core",
+                        "ja": "コア"
                     },
                     {
                         "name": "부트스트래핑",
                         "href": "/basic/bootstraping",
                         "ko": "부트스트래핑",
-                        "en": "bootstraping"
+                        "en": "bootstraping",
+                        "ja": "ブートストラップ"
                     },
                     {
                         "name": "레지스트리",
                         "href": "/basic/registry",
                         "ko": "레지스트리",
-                        "en": "registry"
+                        "en": "registry",
+                        "ja": "レジストリ"
                     },
                     {
                         "name": "로케일",
                         "href": "/basic/locale",
                         "ko": "로케일",
-                        "en": "locale"
+                        "en": "locale",
+                        "ja": "locale"
                     },
                     {
                         "name": "라우터",
                         "href": "/basic/router",
                         "ko": "라우터",
-                        "en": "router"
+                        "en": "router",
+                        "ja": "router"
                     },
                     {
                         "name": "HTTP",
                         "href": "/basic/http",
                         "ko": "HTTP",
-                        "en": "http"
+                        "en": "HTTP",
+                        "ja": "HTTP"
                     },
                     {
                         "name": "헬퍼",
                         "href": "/basic/helper",
                         "ko": "헬퍼",
-                        "en": "helper"
+                        "en": "helper",
+                        "ja": "helper"
                     }
                 ]
             },
@@ -256,6 +296,7 @@
                 "name": "컨트롤러",
                 "ko": "컨트롤러",
                 "en": "Controllers",
+                "ja": "コントローラ",
                 "href": "/controllers",
                 "menu": [
                     {
@@ -567,24 +608,28 @@
         "name": "동영상",
         "href": "https://www.youtube.com/channel/UCR2fqN7llJQ4cWCr0Zy7TgQ/featured?disable_polymer=true",
         "ko": "동영상",
-        "en": "Youtube"
+        "en": "Youtube",
+        "ja": "Youtube"
     },
     {
         "name": "소스",
         "href": "/source",
         "ko": "소스",
-        "en": "Source"
+        "en": "Source",
+        "ja": "ソース"
     },
     {
         "name": "기술지원",
         "href": "/support",
         "ko": "기술지원",
-        "en": "support"
+        "en": "support",
+        "ja": "テクニカルサポート"
     },
     {
         "name": "커뮤니티",
         "href": "/comunity",
         "ko": "커뮤니티",
-        "en": "Comunity"
+        "en": "Comunity",
+        "ja": "コミュニティ"
     }
 ]

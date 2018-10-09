@@ -303,25 +303,29 @@
                         "name": "컨트롤러",
                         "href": "/controllers/controller",
                         "ko": "컨트롤러",
-                        "en": "Controller"
+                        "en": "Controller",
+                        "ja": "コントローラ"
                     },
                     {
                         "name": "실습",
                         "href": "/controllers/practice",
                         "ko": "실습",
-                        "en": "practice"
+                        "en": "practice",
+                        "ja": "実習"
                     },
                     {
                         "name": "원리",
                         "href": "/controllers/principle",
                         "ko": "원리",
-                        "en": "principle"
+                        "en": "principle",
+                        "ja": "原理"
                     },
                     {
                         "name": "미들웨어",
                         "href": "/controllers/middleware",
                         "ko": "미들웨어",
-                        "en": "middleware"
+                        "en": "middleware",
+                        "ja": "ミドルウェア"
                     }
                 ]
             },
@@ -329,43 +333,50 @@
                 "name": "모델",
                 "ko": "모델",
                 "en": "Model",
+                "ja": "モデル",
                 "href": "/model",
                 "menu": [
                     {
                         "name": "데이터베이스",
                         "href": "/model/database",
                         "ko": "데이터베이스",
-                        "en": "database"
+                        "en": "database",
+                        "ja": "データベース"
                     },
                     {
                         "name": "메뉴",
                         "href": "/model/menu",
                         "ko": "메뉴",
                         "en": "menu",
+                        "ja": "メニュー",
                         "menu": [
                             {
                                 "name": "구성",
                                 "href": "/model/menu/menu",
                                 "ko": "구성",
-                                "en": "menu/menu"
+                                "en": "Configuration",
+                                "ja": "構成"
                             },
                             {
                                 "name": "파일",
                                 "href": "/model/menu/file",
                                 "ko": "파일",
-                                "en": "File"
+                                "en": "File",
+                                "ja": "ファイル"
                             },
                             {
                                 "name": "Helper",
                                 "href": "/model/menu/helper",
                                 "ko": "Helper",
-                                "en": "helper"
+                                "en": "helper",
+                                "ja": "Helper"
                             },
                             {
                                 "name": "데이터",
                                 "href": "/model/menu/data",
                                 "ko": "데이터",
-                                "en": "data"
+                                "en": "data",
+                                "ja": "データ"
                             }
                         ]
                     }
@@ -375,6 +386,7 @@
                 "name": "리소스",
                 "ko": "리소스",
                 "en": "Resource",
+                "ja": "リソース",
                 "href": "/resources",
                 "menu": [
                     {
@@ -382,24 +394,28 @@
                         "href": "/resources/resource",
                         "ko": "구조",
                         "en": "structure",
+                        "ja": "構造",
                         "menu": [
                             {
                                 "name": "리소스",
                                 "href": "/resources/resource/resource",
                                 "ko": "리소스",
-                                "en": "resource"
+                                "en": "resource",
+                                "ja": "リソース"
                             },
                             {
                                 "name": "타입",
                                 "href": "/resources/resource/type",
                                 "ko": "타입",
-                                "en": "type"
+                                "en": "type",
+                                "ja": "タイプ"
                             },
                             {
                                 "name": "다국어",
                                 "href": "/resources/resource/multi",
                                 "ko": "다국어",
-                                "en": "multi"
+                                "en": "multi",
+                                "ja": "多言語"
                             }
                         ]
                     },
@@ -407,25 +423,29 @@
                         "name": "머리말",
                         "href": "/resources/frontmatter",
                         "ko": "머리말",
-                        "en": "frontmatter"
+                        "en": "frontmatter",
+                        "ja": "はじめに"
                     },
                     {
                         "name": "마크다운",
                         "href": "/resources/markdown",
                         "ko": "마크다운",
-                        "en": "markdown"
+                        "en": "markdown",
+                        "ja": "マークダウン"
                     },
                     {
                         "name": "CSS",
                         "href": "/resources/css",
                         "ko": "CSS",
-                        "en": "css"
+                        "en": "css",
+                        "ja": "CSS"
                     },
                     {
                         "name": "javascript",
                         "href": "/resources/javascript",
                         "ko": "javascript",
-                        "en": "javascript"
+                        "en": "javascript",
+                        "ja": "javascript"
                     }
                 ]
             },
@@ -433,93 +453,108 @@
                 "name": "템플릿",
                 "ko": "템플릿",
                 "en": "Template",
+                "ja": "テンプレート",
                 "href": "/template",
                 "menu": [
                     {
                         "name": "템플릿",
                         "href": "/template/template",
                         "ko": "템플릿",
-                        "en": "template"
+                        "en": "template",
+                        "ja": "テンプレート"
                     },
                     {
                         "name": "언어",
                         "href": "/template/language",
                         "ko": "언어",
-                        "en": "language"
+                        "en": "language",
+                        "ja": "言語"
                     },
                     {
                         "name": "엔진",
                         "href": "/template/engine",
                         "ko": "엔진",
-                        "en": "engine"
+                        "en": "engine",
+                        "ja": "エンジン"
                     },
                     {
                         "name": "Liquid",
                         "href": "/template/liquid",
                         "ko": "Liquid",
-                        "en": "Liquid"
+                        "en": "Liquid",
+                        "ja": "Liquid"
                     },
                     {
                         "name": "blade",
                         "href": "/template/blade",
                         "ko": "blade",
-                        "en": "blade"
+                        "en": "blade",
+                        "ja": "blade"
                     },
                     {
                         "name": "carpet",
                         "href": "/template/carpet",
                         "ko": "carpet",
-                        "en": "carpet"
+                        "en": "carpet",
+                        "ja": "carpet"
                     }
                 ]
             },
             {
                 "name": "뷰",
                 "ko": "뷰",
-                "en": "View",
+                "en": "ビュー",
+                "ja": "뷰",
                 "href": "/view",
                 "menu": [
                     {
                         "name": "뷰",
                         "href": "/view/view",
                         "ko": "뷰",
-                        "en": "view"
+                        "en": "view",
+                        "ja": "뷰"
                     },
                     {
                         "name": "호출",
                         "href": "/view/call",
                         "ko": "호출",
-                        "en": "call"
+                        "en": "call",
+                        "ja": "呼び出し"
                     },
                     {
                         "name": "헬퍼",
                         "href": "/view/helper",
                         "ko": "헬퍼",
-                        "en": "helper"
+                        "en": "helper",
+                        "ja": "helper"
                     },
                     {
                         "name": "캐쉬",
                         "href": "/view/cache",
                         "ko": "캐쉬",
-                        "en": "cache"
+                        "en": "cache",
+                        "ja": "キャッシュ"
                     },
                     {
                         "name": "테마",
                         "href": "/view/theme",
                         "ko": "테마",
                         "en": "theme",
+                        "ja": "テーマ",
                         "menu": [
                             {
                                 "name": "테마",
                                 "href": "/view/theme/theme",
                                 "ko": "테마",
-                                "en": "theme"
+                                "en": "theme",
+                                "ja": "テーマ"
                             },
                             {
                                 "name": "지니테마",
                                 "href": "/view/theme/jinytheme",
                                 "ko": "지니테마",
-                                "en": "jinytheme"
+                                "en": "jinytheme",
+                                "ja": "ジニーテーマ"
                             }
                         ]
                     },
@@ -527,7 +562,8 @@
                         "name": "이미지",
                         "href": "/view/images",
                         "ko": "이미지",
-                        "en": "images"
+                        "en": "images",
+                        "ja": "画像"
                     }
                 ]
             },
@@ -535,19 +571,22 @@
                 "name": "확장",
                 "ko": "확장",
                 "en": "extension",
+                "ja": "拡張",
                 "href": "/extension",
                 "menu": [
                     {
                         "name": "페키지",
                         "href": "/extension/package",
                         "ko": "페키지",
-                        "en": "Package"
+                        "en": "Package",
+                        "ja": "パッケージ"
                     },
                     {
                         "name": "페이지",
                         "href": "/extension/pages",
                         "ko": "페이지",
-                        "en": "pages"
+                        "en": "pages",
+                        "ja": "ページ"
                     }
                 ]
             },
@@ -555,49 +594,57 @@
                 "name": "CLI",
                 "ko": "CLI",
                 "en": "CLI",
+                "ja": "CLI",
                 "href": "/cli",
                 "menu": [
                     {
                         "name": "cli",
                         "href": "/cli/cli",
                         "ko": "cli",
-                        "en": "cli"
+                        "en": "cli",
+                        "ja": "cli"
                     },
                     {
                         "name": "램프",
                         "href": "/cli/lamp",
                         "ko": "램프",
-                        "en": "lamp"
+                        "en": "lamp",
+                        "ja": "lamp"
                     },
                     {
                         "name": "FTP",
                         "href": "/cli/ftp",
                         "ko": "FTP",
-                        "en": "ftp"
+                        "en": "ftp",
+                        "ja": "FTP"
                     },
                     {
                         "name": "deploy",
                         "href": "/cli/deploy",
                         "ko": "deploy",
-                        "en": "deploy"
+                        "en": "deploy",
+                        "ja": "deploy"
                     },
                     {
                         "name": "백업",
                         "href": "/cli/backup",
                         "ko": "백업",
-                        "en": "backup"
+                        "en": "backup",
+                        "ja": "backup"
                     },
                     {
                         "name": "빌드",
                         "href": "/cli/build",
                         "ko": "빌드",
-                        "en": "build"
+                        "en": "build",
+                        "ja": "build"
                     },
                     {
                         "name": "기타",
                         "href": "/cli/misc",
                         "ko": "기타",
-                        "en": "misc"
+                        "en": "misc",
+                        "ja": "misc"
                     }
                 ]
             }

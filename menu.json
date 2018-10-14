@@ -300,11 +300,11 @@
                 "href": "/controllers",
                 "menu": [
                     {
-                        "name": "컨트롤러",
-                        "href": "/controllers/controller",
-                        "ko": "컨트롤러",
-                        "en": "Controller",
-                        "ja": "コントローラ"
+                        "name": "개념",
+                        "href": "/controllers",
+                        "ko": "개념",
+                        "en": "concept",
+                        "ja": "概念"
                     },
                     {
                         "name": "실습",
@@ -543,18 +543,39 @@
                         "ja": "テーマ",
                         "menu": [
                             {
-                                "name": "테마",
-                                "href": "/view/theme/theme",
-                                "ko": "테마",
+                                "name": "테마사용",
+                                "href": "/view/theme/use",
+                                "ko": "테마사용",
                                 "en": "theme",
-                                "ja": "テーマ"
+                                "ja": "テーマを使用"
                             },
                             {
-                                "name": "지니테마",
-                                "href": "/view/theme/jinytheme",
-                                "ko": "지니테마",
-                                "en": "jinytheme",
-                                "ja": "ジニーテーマ"
+                                "name": "템플릿 테마",
+                                "href": "/view/theme/Liquid",
+                                "ko": "템플릿 테마",
+                                "en": "Liquid",
+                                "ja": "テンプレートのテーマ"
+                            },
+                            {
+                                "name": "복수테마",
+                                "href": "/view/theme/custom",
+                                "ko": "복수테마",
+                                "en": "Custome",
+                                "ja": "複数のテーマ"
+                            },
+                            {
+                                "name": "테마배포",
+                                "href": "/view/theme/deploy",
+                                "ko": "테마배포",
+                                "en": "Deploy",
+                                "ja": "テーマ配布"
+                            },
+                            {
+                                "name": "코드뷰",
+                                "href": "/view/theme/code",
+                                "ko": "코드뷰",
+                                "en": "Code",
+                                "ja": "コードビュー"
                             }
                         ]
                     },
